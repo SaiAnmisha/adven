@@ -1,0 +1,39 @@
+
+
+header{background-color:rgba(136, 32, 32, 0.849);
+overflow:hidden;
+position:fixed;
+font-family: 'Lobster', cursive;
+
+}
+
+    
+
+header{
+    text-align:center;
+    display:inline-block;
+    text-transform: uppercase;
+
+    }
+    .one h2{text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;}
+.one{padding-top:5px;
+margin-top: 57px;
+font-size: 15px;
+
+font-family: 'Quicksand', sans-serif;}
+
+.foot{
+    text-align: center;
+    display: inline;
+    font-family: 'Lobster', cursive;
+    
+}
+.for{
+    margin-left: 400px;
+    float: left;
+    display: inline;}
+   
+   ul li{
+       display:inline;
+   }
