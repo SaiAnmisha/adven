@@ -1,39 +1,88 @@
 
-
-header{background-color:rgba(136, 32, 32, 0.849);
-overflow:hidden;
-position:fixed;
-font-family: 'Lobster', cursive;
-
-}
-
-    
-
 header{
-    text-align:center;
-    display:inline-block;
-    text-transform: uppercase;
+    background-color:black;
+height:80px;
+text-transform: uppercase;
+position: fixed;
+width:100%;
 
+}
+   
+.logoo{margin-left:150px;font-size:30px;
+    height:80px;
     }
-    .one h2{text-transform: uppercase;
-    font-family: 'Roboto', sans-serif;}
-.one{padding-top:5px;
-margin-top: 57px;
-font-size: 15px;
 
-font-family: 'Quicksand', sans-serif;}
+.navi{margin-top:30px;
+    float: right;
+        font-size: 20px;
+    margin-right:25px;
+    text-transform: uppercase;
+    display:inline;
+    font-family:'Carter One', cursive;}
+nav li{
+    display:inline;
+}
 
-.foot{
-    text-align: center;
-    display: inline;
-    font-family: 'Lobster', cursive;
+.navi a{color:white;
+    text-decoration:none;}
+
+.navi a:hover{background-color:grey;
+font-size: 150%;}
+.image{margin-left:10px;}
+.one h2{text-transform: uppercase;
+    font-family:"Helvetica Neue", Helvetica, Arial, sans-serif; }
+
+.one{padding-top:50px;
+margin-top: 35px;
+font-size: 18px;
+margin-left: 10px;
+}
+
+.two{
+    font: bold 32px/32px 'robotoregular';
     
 }
-.for{
-    margin-left: 400px;
-    float: left;
-    display: inline;}
-   
-   ul li{
-       display:inline;
-   }
+.four{
+font-family: sans-serif;
+margin-top: 5px;
+}
+p { 
+    text-indent: 15px;
+ }
+ .five{margin-top:20px;
+margin-left:10px;
+font-size: 30px;}
+.things{margin-top: 20px;}
+.things a{color: red;}
+ .vedi{margin-top: 25px;
+     text-transform: uppercase;}
+.more{font-size: 17px;}
+
+
+footer{background-color:black;
+    color: white;
+    height: 105px;
+}
+
+.fore{
+    margin-top: 0px;
+    text-align: center;
+    color: #687078;
+    font-size:10px;}
+
+.for2{
+        float: right;
+        font-size:20px;
+        font-family: 'Quicksand', sans-serif; 
+        margin-right:25px;
+        display:inline;
+  }
+  .more a{text-transform: none;
+color:orangered}
+  #com{
+    margin-top:10px;
+    height:30px;
+    margin-left:20px;
+  }
+ 
+  
